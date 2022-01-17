@@ -2,9 +2,12 @@
 https://www.ph9.com/en-GB/10-neutral-colour-palettes-to-use-on-your-website/blog_10146
 */
 
-* {
+html, body {
   background-color: #fbffff;
   color: #2f2a26;
+
+  font-family: 'Times New Roman', serif;
+  font-size: 30px;
 }
 
 a:link {
